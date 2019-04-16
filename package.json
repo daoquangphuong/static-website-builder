@@ -8,7 +8,9 @@
   },
   "scripts": {
     "start": "nodemon src/index.js",
-    "build": ""
+    "build": "node tools/build.js"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "fs-extra": "^7.0.1"
+  }
 }

@@ -6,6 +6,9 @@
 # deploy
 /deploy
 
+# build
+/build
+
 # misc
 /.idea
 .DS_Store

@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
   res.render('index.ejs', {page: 'home'});
 });
 
-app.get('/about', (req, res) => {
+app.get('/about.html', (req, res) => {
   res.render('index.ejs', {page: 'about'});
 });
 
