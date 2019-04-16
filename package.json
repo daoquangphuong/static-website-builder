@@ -1,0 +1,14 @@
+{
+  "name": "static-website-builder",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": ""
+  },
+  "devDependencies": {}
+}
