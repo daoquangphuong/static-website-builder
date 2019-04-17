@@ -2,12 +2,12 @@
 
 A builder for developing and building a static website
 
-## for developing
+## developing
 ```
 npm start
 ```
 
-## for building
+## building
 ```
 npm build
 ```
